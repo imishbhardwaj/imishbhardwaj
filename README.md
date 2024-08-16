@@ -1,4 +1,6 @@
 # 💫 About Me:
+![Alt Text](https://i.pinimg.com/originals/a8/e4/ce/a8e4ceb0e6e1eaa33da1233bad36bd98.gif)
+
 👩‍💻I'm a Computer Science Graduate<br>🔭 I’m currently working on developing my analytical skills<br>🌱 I’m currently learning Data Analytics<br>⚡ Fun fact<br>-> I'm a Part time memer :)
 
 
